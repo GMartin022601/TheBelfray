@@ -318,7 +318,7 @@
             this.pnlRoomBooking.Location = new System.Drawing.Point(99, 129);
             this.pnlRoomBooking.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnlRoomBooking.Name = "pnlRoomBooking";
-            this.pnlRoomBooking.Size = new System.Drawing.Size(811, 329);
+            this.pnlRoomBooking.Size = new System.Drawing.Size(809, 448);
             this.pnlRoomBooking.TabIndex = 16;
             this.pnlRoomBooking.Visible = false;
             // 
